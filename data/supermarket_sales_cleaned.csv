@@ -1,0 +1,1192 @@
+Bill_ID,Product_ID,Product_Name,Category,Sub_Category,Brand,Unit_Price,Quantity,Discount_Percent,Date,Payment_Method,Customer_Type,Stock_Available
+B1001,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,0.0,2026-07-01,Cash,Occasional,6
+B1002,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,2,15.0,2026-07-01,Card,Regular,93
+B1003,P104,Sunflower Oil 1 L,Staples & Grocery,Edible Oil,SunDrop,145,4,0.0,2026-07-01,Card,Occasional,111
+B1004,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,2,15.0,2026-07-01,UPI,Regular,68
+B1005,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,0.0,2026-07-01,Card,Regular,92
+B1006,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,2,5.0,2026-07-01,UPI,Regular,25
+B1007,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,10.0,2026-07-01,UPI,Occasional,104
+B1008,P606,Cheese Slices 200 g,Dairy & Bakery,Cheese,CreamyCow,140,2,0.0,2026-07-01,UPI,Regular,13
+B1009,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,0.0,2026-07-01,Card,Regular,92
+B1010,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,15.0,2026-07-02,Cash,Occasional,59
+B1011,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,4,10.0,2026-07-02,Cash,Regular,136
+B1013,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,5.0,2026-07-02,UPI,Occasional,136
+B1014,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-07-02,Cash,Occasional,93
+B1015,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,10.0,2026-07-02,Card,Regular,18
+B1016,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,5.0,2026-07-02,UPI,Regular,107
+B1017,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,15.0,2026-07-02,UPI,Regular,76
+B1018,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,15.0,2026-07-02,Card,Occasional,18
+B1019,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,4,10.0,2026-07-02,Cash,Occasional,62
+B1020,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,10.0,2026-07-02,Cash,Occasional,19
+B1021,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,4,5.0,2026-07-03,Cash,Occasional,25
+B1022,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,5.0,2026-07-03,UPI,Regular,76
+B1023,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,5.0,2026-07-03,UPI,Regular,79
+B1024,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,2,10.0,2026-07-03,UPI,Regular,22
+B1025,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,2,0.0,2026-07-03,Card,Regular,25
+B1026,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,3,0.0,2026-07-03,UPI,Occasional,107
+B1027,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,3,10.0,2026-07-03,UPI,Regular,53
+B1028,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,10.0,2026-07-03,Cash,Occasional,18
+B1029,P104,Sunflower Oil 1 L,Staples & Grocery,Edible Oil,SunDrop,145,1,5.0,2026-07-03,UPI,Occasional,111
+B1030,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,15.0,2026-07-03,UPI,Regular,104
+B1031,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,5.0,2026-07-03,UPI,Regular,136
+B1032,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,0.0,2026-07-04,Cash,Occasional,92
+B1033,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-07-04,UPI,Occasional,57
+B1034,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,5.0,2026-07-04,Cash,Regular,93
+B1035,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,6,5.0,2026-07-04,Cash,Bulk Buyer,92
+B1036,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,5,0.0,2026-07-04,Card,Regular,135
+B1037,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,10.0,2026-07-04,UPI,Regular,92
+B1038,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,6,0.0,2026-07-04,UPI,Bulk Buyer,92
+B1039,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,5,15.0,2026-07-04,UPI,Regular,25
+B1040,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,3,5.0,2026-07-04,Cash,Regular,126
+B1041,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,10.0,2026-07-04,Cash,Regular,104
+B1042,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,0.0,2026-07-04,UPI,Occasional,135
+B1043,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,3,5.0,2026-07-04,UPI,Regular,42
+B1044,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,2,10.0,2026-07-04,Card,Occasional,25
+B1045,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,1,15.0,2026-07-04,UPI,Regular,94
+B1046,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,5.0,2026-07-04,UPI,Occasional,93
+B1047,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,2,0.0,2026-07-04,Cash,Regular,25
+B1048,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,5.0,2026-07-04,UPI,Regular,135
+B1049,P606,Cheese Slices 200 g,Dairy & Bakery,Cheese,CreamyCow,140,1,5.0,2026-07-04,Cash,Occasional,13
+B1050,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,0.0,2026-07-04,Cash,Regular,107
+B1051,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,0.0,2026-07-04,Cash,Occasional,19
+B1052,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,4,0.0,2026-07-04,Cash,Occasional,79
+B1053,P504,Floor Cleaner 1 L,Home Care,Floor Care,ShineAll,190,1,10.0,2026-07-04,UPI,Regular,55
+B1054,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,4,10.0,2026-07-04,Card,Occasional,112
+B1055,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,0.0,2026-07-04,Cash,Occasional,59
+B1056,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,9,0.0,2026-07-05,UPI,Bulk Buyer,63
+B1057,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,0.0,2026-07-05,Cash,Regular,6
+B1058,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,5.0,2026-07-05,UPI,Regular,139
+B1059,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,5.0,2026-07-05,UPI,Regular,104
+B1060,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,10.0,2026-07-05,Cash,Occasional,104
+B1061,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,2,0.0,2026-07-05,UPI,Regular,68
+B1062,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,6,15.0,2026-07-05,Not Recorded,Bulk Buyer,93
+B1063,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,0.0,2026-07-05,Cash,Occasional,6
+B1064,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,5.0,2026-07-05,Card,Occasional,6
+B1065,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,5.0,2026-07-05,Cash,Regular,19
+B1066,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,1,10.0,2026-07-05,Card,Occasional,22
+B1067,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,0.0,2026-07-05,Cash,Occasional,64
+B1068,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,5.0,2026-07-05,UPI,Occasional,135
+B1069,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,6,5.0,2026-07-06,Not Recorded,Bulk Buyer,62
+B1070,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,0.0,2026-07-06,Cash,Regular,6
+B1071,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,4,5.0,2026-07-06,UPI,Occasional,6
+B1072,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,6,10.0,2026-07-06,Cash,Bulk Buyer,42
+B1073,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,3,0.0,2026-07-06,Cash,Occasional,79
+B1074,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,3,0.0,2026-07-06,UPI,Occasional,25
+B1075,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-07-06,Cash,Regular,93
+B1076,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,10.0,2026-07-06,UPI,Regular,92
+B1077,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,5.0,2026-07-06,UPI,Occasional,136
+B1078,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,5.0,2026-07-06,UPI,Occasional,42
+B1079,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,3,5.0,2026-07-06,UPI,Regular,59
+B1080,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,5.0,2026-07-06,UPI,Regular,25
+B1081,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,5.0,2026-07-06,UPI,Regular,76
+B1082,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,0.0,2026-07-06,UPI,Regular,25
+B1083,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,0.0,2026-07-06,Cash,Occasional,104
+B1084,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,5.0,2026-07-06,Cash,Occasional,126
+B1085,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,5.0,2026-07-06,UPI,Regular,92
+B1086,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,0.0,2026-07-07,UPI,Regular,135
+B1087,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-07-07,UPI,Regular,57
+B1088,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,1,15.0,2026-07-07,UPI,Occasional,93
+B1089,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,4,5.0,2026-07-07,UPI,Occasional,97
+B1090,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-07-07,UPI,Occasional,93
+B1091,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,5.0,2026-07-07,UPI,Regular,6
+B1092,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,5.0,2026-07-07,UPI,Occasional,57
+B1093,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,4,5.0,2026-07-07,Cash,Occasional,18
+B1094,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,0.0,2026-07-07,Cash,Occasional,57
+B1095,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,2,10.0,2026-07-07,UPI,Regular,121
+B1096,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-07-07,Cash,Regular,18
+B1097,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,0.0,2026-07-07,UPI,Occasional,57
+B1098,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,5.0,2026-07-07,UPI,Regular,92
+B1099,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,0.0,2026-07-08,UPI,Occasional,42
+B1100,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,5.0,2026-07-08,UPI,Regular,59
+B1101,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,5.0,2026-07-08,Cash,Occasional,93
+B1102,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,15.0,2026-07-08,Cash,Regular,64
+B1103,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,0.0,2026-07-08,Not Recorded,Regular,76
+B1104,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,6,0.0,2026-07-08,UPI,Bulk Buyer,97
+B1105,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,15.0,2026-07-08,UPI,Regular,42
+B1106,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,5,5.0,2026-07-08,UPI,Regular,135
+B1107,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,15.0,2026-07-08,UPI,Occasional,92
+B1108,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,0.0,2026-07-08,UPI,Occasional,139
+B1109,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,4,5.0,2026-07-08,UPI,Occasional,93
+B1110,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,9,0.0,2026-07-08,Cash,Bulk Buyer,76
+B1111,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,1,10.0,2026-07-08,Cash,Occasional,63
+B1112,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,6,0.0,2026-07-08,Cash,Bulk Buyer,139
+B1113,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,12,0.0,2026-07-08,Cash,Bulk Buyer,6
+B1114,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,0.0,2026-07-09,Card,Regular,135
+B1115,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,4,0.0,2026-07-09,UPI,Occasional,77
+B1116,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,10.0,2026-07-09,Cash,Regular,107
+B1117,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,5.0,2026-07-09,Cash,Regular,57
+B1118,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,5.0,2026-07-09,Card,Regular,135
+B1119,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,4,5.0,2026-07-09,Cash,Occasional,107
+B1120,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,4,15.0,2026-07-09,UPI,Regular,18
+B1121,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,4,10.0,2026-07-09,UPI,Regular,64
+B1122,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,0.0,2026-07-09,UPI,Regular,93
+B1123,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,15.0,2026-07-09,Card,Occasional,136
+B1124,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,0.0,2026-07-09,UPI,Occasional,64
+B1125,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,4,0.0,2026-07-10,UPI,Regular,25
+B1126,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,1,0.0,2026-07-10,UPI,Regular,126
+B1127,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,0.0,2026-07-10,Cash,Regular,135
+B1128,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,10.0,2026-07-10,Cash,Occasional,92
+B1129,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,15.0,2026-07-10,Cash,Regular,126
+B1130,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,10.0,2026-07-10,UPI,Regular,135
+B1131,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,5.0,2026-07-10,UPI,Regular,92
+B1132,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,5.0,2026-07-10,Card,Regular,136
+B1133,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,1,10.0,2026-07-10,UPI,Regular,112
+B1134,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,0.0,2026-07-10,Cash,Regular,79
+B1135,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,2,0.0,2026-07-10,UPI,Regular,68
+B1136,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,0.0,2026-07-10,UPI,Regular,135
+B1137,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,5.0,2026-07-11,UPI,Occasional,42
+B1138,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,2,5.0,2026-07-11,Cash,Regular,25
+B1139,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,15.0,2026-07-11,UPI,Occasional,18
+B1140,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,5.0,2026-07-11,UPI,Regular,64
+B1141,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,0.0,2026-07-11,Card,Regular,42
+B1142,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,5.0,2026-07-11,UPI,Regular,59
+B1143,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,2,0.0,2026-07-11,Cash,Occasional,68
+B1144,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,1,15.0,2026-07-11,Cash,Regular,19
+B1145,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,5.0,2026-07-11,Cash,Regular,104
+B1146,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,6,0.0,2026-07-11,UPI,Bulk Buyer,57
+B1147,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,0.0,2026-07-11,Cash,Regular,6
+B1148,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,5.0,2026-07-11,UPI,Regular,79
+B1149,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,0.0,2026-07-11,UPI,Regular,97
+B1150,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,3,0.0,2026-07-11,UPI,Regular,68
+B1151,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,3,0.0,2026-07-11,Card,Occasional,139
+B1152,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,15.0,2026-07-11,Card,Regular,139
+B1153,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,5.0,2026-07-11,Cash,Occasional,57
+B1154,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,15.0,2026-07-11,UPI,Regular,25
+B1155,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,15.0,2026-07-12,Cash,Regular,92
+B1156,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,2,15.0,2026-07-12,UPI,Occasional,94
+B1157,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,5,0.0,2026-07-12,Card,Regular,92
+B1158,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,1,0.0,2026-07-12,Cash,Regular,121
+B1159,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,10.0,2026-07-12,Cash,Occasional,19
+B1160,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,0.0,2026-07-12,Cash,Occasional,6
+B1161,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,6,0.0,2026-07-12,Cash,Occasional,57
+B1162,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,4,0.0,2026-07-12,UPI,Regular,19
+B1164,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,5.0,2026-07-12,UPI,Regular,76
+B1165,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,4,15.0,2026-07-12,Cash,Occasional,139
+B1166,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,2,0.0,2026-07-12,UPI,Regular,53
+B1167,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,0.0,2026-07-12,UPI,Regular,25
+B1168,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,0.0,2026-07-12,UPI,Occasional,79
+B1169,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,0.0,2026-07-12,Cash,Regular,104
+B1170,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,6,15.0,2026-07-12,UPI,Bulk Buyer,53
+B1171,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,5.0,2026-07-12,Cash,Occasional,136
+B1172,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,0.0,2026-07-12,UPI,Regular,135
+B1173,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,5,5.0,2026-07-12,Cash,Regular,139
+B1174,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,5.0,2026-07-12,Cash,Regular,135
+B1175,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,3,0.0,2026-07-12,UPI,Occasional,62
+B1176,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,1,0.0,2026-07-12,UPI,Regular,136
+B1177,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-07-13,UPI,Occasional,19
+B1178,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,3,15.0,2026-07-13,Card,Regular,77
+B1179,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,3,0.0,2026-07-13,Card,Regular,19
+B1180,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,1,10.0,2026-07-13,UPI,Regular,53
+B1181,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,0.0,2026-07-13,Cash,Occasional,134
+B1182,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,0.0,2026-07-13,Cash,Regular,92
+B1183,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,5.0,2026-07-13,Cash,Occasional,64
+B1184,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,3,0.0,2026-07-13,UPI,Occasional,53
+B1185,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-07-13,Cash,Occasional,18
+B1186,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,6,10.0,2026-07-13,Cash,Bulk Buyer,25
+B1187,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,10.0,2026-07-13,UPI,Regular,92
+B1188,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,1,5.0,2026-07-13,UPI,Occasional,121
+B1189,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,0.0,2026-07-14,Cash,Occasional,57
+B1190,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,0.0,2026-07-14,Cash,Occasional,59
+B1191,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,0.0,2026-07-14,Cash,Regular,126
+B1192,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,2,15.0,2026-07-14,Cash,Regular,22
+B1193,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,6,5.0,2026-07-14,UPI,Bulk Buyer,57
+B1194,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,0.0,2026-07-14,Cash,Regular,19
+B1195,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,0.0,2026-07-14,Cash,Occasional,25
+B1196,P606,Cheese Slices 200 g,Dairy & Bakery,Cheese,CreamyCow,140,2,0.0,2026-07-14,UPI,Regular,13
+B1197,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,0.0,2026-07-14,UPI,Regular,92
+B1198,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,4,5.0,2026-07-14,UPI,Occasional,92
+B1199,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,1,0.0,2026-07-14,Card,Occasional,92
+B1200,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,15.0,2026-07-14,Cash,Bulk Buyer,57
+B1201,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,0.0,2026-07-15,UPI,Occasional,18
+B1202,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,1,0.0,2026-07-15,Card,Occasional,136
+B1203,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,0.0,2026-07-15,UPI,Occasional,92
+B1204,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,5.0,2026-07-15,UPI,Regular,57
+B1205,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,6,5.0,2026-07-15,UPI,Bulk Buyer,79
+B1206,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,0.0,2026-07-15,Cash,Occasional,64
+B1207,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,12,0.0,2026-07-15,Cash,Bulk Buyer,53
+B1208,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,3,0.0,2026-07-15,UPI,Occasional,126
+B1209,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-07-15,Cash,Regular,93
+B1210,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,0.0,2026-07-16,Card,Regular,76
+B1211,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,5,5.0,2026-07-16,UPI,Occasional,55
+B1212,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,2,0.0,2026-07-16,Cash,Occasional,121
+B1213,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,4,5.0,2026-07-16,Card,Occasional,134
+B1214,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,0.0,2026-07-16,Cash,Regular,97
+B1215,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,4,0.0,2026-07-16,UPI,Occasional,134
+B1216,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,2,0.0,2026-07-16,UPI,Regular,112
+B1217,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,10.0,2026-07-16,Cash,Occasional,64
+B1218,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,2,5.0,2026-07-16,Card,Regular,25
+B1219,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,2,5.0,2026-07-16,Card,Regular,53
+B1220,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,4,15.0,2026-07-16,Cash,Occasional,18
+B1221,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,0.0,2026-07-17,UPI,Bulk Buyer,136
+B1222,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,3,10.0,2026-07-17,Card,Bulk Buyer,97
+B1223,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,1,0.0,2026-07-17,UPI,Occasional,19
+B1224,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,3,0.0,2026-07-17,UPI,Bulk Buyer,42
+B1225,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,4,0.0,2026-07-17,UPI,Occasional,19
+B1226,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,0.0,2026-07-17,Cash,Regular,64
+B1227,P504,Floor Cleaner 1 L,Home Care,Floor Care,ShineAll,190,2,0.0,2026-07-17,UPI,Regular,55
+B1228,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,4,0.0,2026-07-17,UPI,Regular,22
+B1229,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,2,0.0,2026-07-17,UPI,Occasional,63
+B1230,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,0.0,2026-07-17,Cash,Regular,76
+B1231,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,5.0,2026-07-17,Cash,Regular,92
+B1232,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,5.0,2026-07-18,Cash,Occasional,135
+B1233,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,0.0,2026-07-18,UPI,Regular,19
+B1234,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,5.0,2026-07-18,Cash,Regular,104
+B1235,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,5.0,2026-07-18,Cash,Regular,57
+B1237,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,1,15.0,2026-07-18,UPI,Regular,59
+B1238,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,0.0,2026-07-18,Card,Regular,104
+B1239,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,3,0.0,2026-07-18,UPI,Regular,53
+B1240,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,6,0.0,2026-07-18,UPI,Bulk Buyer,139
+B1241,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,10.0,2026-07-18,Cash,Occasional,107
+B1242,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,10.0,2026-07-18,UPI,Occasional,107
+B1243,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,1,0.0,2026-07-18,UPI,Regular,68
+B1244,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,4,0.0,2026-07-18,Card,Regular,136
+B1245,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,0.0,2026-07-19,UPI,Occasional,92
+B1246,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,0.0,2026-07-19,Cash,Regular,76
+B1247,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,0.0,2026-07-19,UPI,Regular,42
+B1248,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-07-19,UPI,Regular,135
+B1249,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,10.0,2026-07-19,Cash,Occasional,19
+B1250,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,3,5.0,2026-07-19,Card,Regular,55
+B1251,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,0.0,2026-07-19,Cash,Occasional,134
+B1252,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,3,15.0,2026-07-19,UPI,Bulk Buyer,63
+B1253,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,5.0,2026-07-19,UPI,Regular,92
+B1254,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,2,0.0,2026-07-19,UPI,Occasional,55
+B1255,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,2,0.0,2026-07-19,UPI,Regular,94
+B1256,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,3,0.0,2026-07-19,UPI,Regular,79
+B1257,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,5.0,2026-07-19,Cash,Regular,136
+B1258,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,6,5.0,2026-07-19,Card,Bulk Buyer,55
+B1259,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,4,5.0,2026-07-19,UPI,Regular,25
+B1260,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,5.0,2026-07-19,Card,Occasional,104
+B1261,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,2,0.0,2026-07-19,UPI,Occasional,108
+B1262,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,1,10.0,2026-07-19,Cash,Occasional,62
+B1263,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-07-19,Card,Occasional,93
+B1264,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,15.0,2026-07-20,Not Recorded,Regular,76
+B1265,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,0.0,2026-07-20,Cash,Regular,18
+B1266,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,0.0,2026-07-20,UPI,Regular,107
+B1267,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,1,0.0,2026-07-20,Cash,Occasional,121
+B1268,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,5.0,2026-07-20,UPI,Occasional,136
+B1269,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,0.0,2026-07-20,Not Recorded,Regular,92
+B1270,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,2,5.0,2026-07-20,UPI,Regular,22
+B1271,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,3,0.0,2026-07-20,UPI,Regular,93
+B1272,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,5.0,2026-07-21,UPI,Regular,6
+B1273,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,3,0.0,2026-07-21,UPI,Regular,68
+B1274,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,2,0.0,2026-07-21,Not Recorded,Regular,22
+B1275,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,3,0.0,2026-07-21,Cash,Occasional,19
+B1276,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,12,15.0,2026-07-21,UPI,Bulk Buyer,76
+B1277,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,6,0.0,2026-07-21,Cash,Bulk Buyer,134
+B1278,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,10.0,2026-07-21,UPI,Regular,107
+B1279,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,2,5.0,2026-07-21,Card,Occasional,53
+B1280,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,0.0,2026-07-21,Cash,Regular,107
+B1281,P401,Shampoo 340 ml,Personal Care,Hair Care,SilkyLocks,320,2,0.0,2026-07-22,UPI,Regular,26
+B1282,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,15.0,2026-07-22,Cash,Regular,6
+B1283,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,5.0,2026-07-22,Cash,Regular,79
+B1284,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,0.0,2026-07-22,Cash,Regular,64
+B1285,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,3,5.0,2026-07-22,Cash,Regular,19
+B1286,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,6,10.0,2026-07-22,Card,Bulk Buyer,135
+B1287,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,4,0.0,2026-07-22,Cash,Regular,18
+B1288,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-07-22,Card,Occasional,93
+B1289,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,1,15.0,2026-07-22,UPI,Regular,55
+B1290,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,3,10.0,2026-07-22,UPI,Occasional,25
+B1291,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,0.0,2026-07-22,UPI,Occasional,135
+B1292,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,5.0,2026-07-22,Cash,Occasional,57
+B1293,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,6,10.0,2026-07-22,Cash,Bulk Buyer,135
+B1294,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,3,5.0,2026-07-22,UPI,Bulk Buyer,53
+B1295,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,1,5.0,2026-07-23,Cash,Regular,55
+B1296,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,0.0,2026-07-23,Cash,Regular,79
+B1297,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,15.0,2026-07-23,UPI,Regular,93
+B1298,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,5,0.0,2026-07-23,UPI,Occasional,63
+B1299,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,3,0.0,2026-07-23,Cash,Bulk Buyer,126
+B1300,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,5.0,2026-07-23,UPI,Occasional,19
+B1301,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,5.0,2026-07-23,Cash,Regular,135
+B1302,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,0.0,2026-07-23,Cash,Occasional,79
+B1303,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,2,5.0,2026-07-23,UPI,Occasional,77
+B1304,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,6,5.0,2026-07-24,UPI,Bulk Buyer,64
+B1305,P504,Floor Cleaner 1 L,Home Care,Floor Care,ShineAll,190,3,0.0,2026-07-24,UPI,Regular,55
+B1306,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,5.0,2026-07-24,Cash,Regular,93
+B1307,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,0.0,2026-07-24,UPI,Occasional,135
+B1308,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,2,0.0,2026-07-24,UPI,Regular,25
+B1309,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,0.0,2026-07-24,UPI,Regular,92
+B1310,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,5.0,2026-07-24,UPI,Occasional,104
+B1311,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,1,15.0,2026-07-24,UPI,Regular,59
+B1312,P504,Floor Cleaner 1 L,Home Care,Floor Care,ShineAll,190,3,0.0,2026-07-24,UPI,Regular,55
+B1313,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,5.0,2026-07-24,Card,Regular,126
+B1314,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,2,0.0,2026-07-24,Cash,Regular,25
+B1315,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,0.0,2026-07-24,Card,Occasional,18
+B1316,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,0.0,2026-07-24,UPI,Regular,135
+B1317,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,0.0,2026-07-24,UPI,Occasional,42
+B1318,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,5.0,2026-07-24,UPI,Occasional,92
+B1319,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,15.0,2026-07-25,Card,Occasional,25
+B1320,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,5.0,2026-07-25,Cash,Regular,92
+B1321,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,15.0,2026-07-25,Card,Occasional,92
+B1322,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,0.0,2026-07-25,Cash,Regular,25
+B1323,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,3,0.0,2026-07-25,UPI,Bulk Buyer,107
+B1324,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,1,5.0,2026-07-25,Cash,Regular,62
+B1325,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,0.0,2026-07-25,UPI,Regular,136
+B1326,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,15.0,2026-07-25,UPI,Regular,126
+B1327,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,1,0.0,2026-07-25,UPI,Regular,55
+B1328,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,10.0,2026-07-25,Cash,Occasional,6
+B1329,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,1,5.0,2026-07-25,Cash,Regular,19
+B1330,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,4,15.0,2026-07-25,Cash,Regular,25
+B1331,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,5.0,2026-07-26,Cash,Regular,104
+B1332,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,1,5.0,2026-07-26,Cash,Regular,62
+B1333,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,3,5.0,2026-07-26,Cash,Bulk Buyer,59
+B1334,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,0.0,2026-07-26,UPI,Regular,104
+B1335,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,1,5.0,2026-07-26,Cash,Occasional,68
+B1336,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,0.0,2026-07-26,UPI,Occasional,42
+B1337,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,2,5.0,2026-07-26,Card,Occasional,93
+B1338,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,1,15.0,2026-07-26,UPI,Occasional,55
+B1339,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,1,5.0,2026-07-26,UPI,Regular,25
+B1340,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,1,0.0,2026-07-26,UPI,Occasional,63
+B1341,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,1,5.0,2026-07-26,UPI,Regular,19
+B1342,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,4,15.0,2026-07-26,Cash,Regular,92
+B1343,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,10.0,2026-07-26,UPI,Regular,64
+B1344,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,2,15.0,2026-07-27,Not Recorded,Occasional,25
+B1345,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-07-27,Cash,Regular,57
+B1346,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,0.0,2026-07-27,Cash,Regular,64
+B1347,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,5.0,2026-07-27,UPI,Occasional,76
+B1348,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,15.0,2026-07-27,Cash,Occasional,136
+B1349,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,0.0,2026-07-27,UPI,Occasional,104
+B1350,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,4,5.0,2026-07-27,Card,Regular,104
+B1351,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,5.0,2026-07-27,Cash,Occasional,135
+B1352,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,2,10.0,2026-07-27,Cash,Regular,25
+B1353,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,5,0.0,2026-07-27,UPI,Regular,18
+B1354,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,5.0,2026-07-28,UPI,Regular,42
+B1355,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,9,0.0,2026-07-28,Card,Bulk Buyer,135
+B1356,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,15.0,2026-07-28,UPI,Regular,25
+B1357,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,5.0,2026-07-28,Cash,Regular,76
+B1358,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-07-28,Cash,Occasional,18
+B1359,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,4,5.0,2026-07-28,UPI,Regular,77
+B1360,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,5.0,2026-07-28,Card,Regular,57
+B1361,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,1,0.0,2026-07-28,UPI,Occasional,64
+B1362,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,3,15.0,2026-07-28,Cash,Regular,94
+B1363,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,5,0.0,2026-07-28,UPI,Occasional,139
+B1364,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-07-28,Cash,Regular,19
+B1365,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,0.0,2026-07-28,UPI,Occasional,136
+B1366,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,3,0.0,2026-07-28,UPI,Occasional,77
+B1367,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-07-28,UPI,Regular,19
+B1368,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,2,15.0,2026-07-28,Cash,Regular,62
+B1369,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,1,10.0,2026-07-29,UPI,Regular,136
+B1370,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,5.0,2026-07-29,UPI,Regular,135
+B1371,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,15.0,2026-07-29,UPI,Regular,107
+B1372,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-07-29,UPI,Regular,93
+B1373,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,15.0,2026-07-29,Card,Regular,18
+B1374,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,3,5.0,2026-07-29,UPI,Occasional,112
+B1375,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,0.0,2026-07-29,Cash,Regular,135
+B1376,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,0.0,2026-07-29,UPI,Occasional,42
+B1377,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,1,15.0,2026-07-29,UPI,Occasional,94
+B1378,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,5.0,2026-07-29,Card,Occasional,57
+B1379,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,4,0.0,2026-07-30,Cash,Occasional,64
+B1380,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,0.0,2026-07-30,Cash,Occasional,104
+B1381,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,6,0.0,2026-07-30,UPI,Bulk Buyer,134
+B1382,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,3,15.0,2026-07-30,UPI,Regular,93
+B1383,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,0.0,2026-07-30,Cash,Regular,135
+B1384,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,5.0,2026-07-30,Cash,Occasional,42
+B1385,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,3,5.0,2026-07-30,UPI,Occasional,53
+B1386,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,9,15.0,2026-07-30,Cash,Bulk Buyer,64
+B1387,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,3,0.0,2026-07-30,Card,Regular,93
+B1388,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,1,0.0,2026-07-30,UPI,Occasional,112
+B1389,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,5,5.0,2026-07-31,UPI,Occasional,104
+B1390,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,2,0.0,2026-07-31,Card,Regular,63
+B1391,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,5.0,2026-07-31,Card,Occasional,18
+B1392,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,6,5.0,2026-07-31,UPI,Bulk Buyer,135
+B1393,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,12,0.0,2026-07-31,Cash,Bulk Buyer,104
+B1394,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,5.0,2026-07-31,UPI,Regular,57
+B1395,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-07-31,Cash,Occasional,19
+B1396,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,5.0,2026-07-31,UPI,Occasional,57
+B1397,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,0.0,2026-07-31,UPI,Regular,79
+B1398,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,0.0,2026-07-31,Card,Occasional,57
+B1399,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,5.0,2026-07-31,Card,Regular,92
+B1400,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,5.0,2026-08-01,UPI,Regular,139
+B1401,P104,Sunflower Oil 1 L,Staples & Grocery,Edible Oil,SunDrop,145,1,0.0,2026-08-01,Cash,Regular,111
+B1402,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,1,0.0,2026-08-01,UPI,Regular,53
+B1403,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,0.0,2026-08-01,Card,Occasional,104
+B1404,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,5.0,2026-08-01,UPI,Regular,42
+B1405,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,3,10.0,2026-08-01,UPI,Occasional,107
+B1406,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,0.0,2026-08-01,Cash,Occasional,97
+B1407,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,5.0,2026-08-01,UPI,Occasional,93
+B1408,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,5.0,2026-08-01,UPI,Regular,92
+B1409,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,15.0,2026-08-01,Cash,Regular,19
+B1410,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,0.0,2026-08-01,UPI,Bulk Buyer,19
+B1411,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,0.0,2026-08-01,Cash,Regular,79
+B1413,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,5.0,2026-08-01,UPI,Regular,92
+B1414,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,0.0,2026-08-01,UPI,Regular,107
+B1415,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-08-01,Cash,Regular,19
+B1416,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,3,0.0,2026-08-01,Cash,Occasional,112
+B1417,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,1,5.0,2026-08-01,UPI,Regular,55
+B1418,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,3,5.0,2026-08-01,UPI,Occasional,139
+B1419,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,15.0,2026-08-01,Cash,Regular,6
+B1420,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,3,10.0,2026-08-02,Card,Regular,93
+B1421,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,9,0.0,2026-08-02,UPI,Bulk Buyer,136
+B1422,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,15.0,2026-08-02,Card,Regular,6
+B1423,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,5.0,2026-08-02,UPI,Regular,93
+B1424,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,0.0,2026-08-02,Cash,Regular,139
+B1425,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,9,0.0,2026-08-02,Cash,Bulk Buyer,92
+B1426,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,4,5.0,2026-08-02,UPI,Regular,112
+B1427,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,5.0,2026-08-02,Card,Regular,19
+B1428,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,3,5.0,2026-08-02,UPI,Occasional,59
+B1429,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,0.0,2026-08-02,Cash,Regular,18
+B1430,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,15.0,2026-08-02,UPI,Regular,79
+B1431,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,12,10.0,2026-08-02,Cash,Bulk Buyer,64
+B1432,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,4,5.0,2026-08-02,Cash,Regular,77
+B1433,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,2,5.0,2026-08-02,UPI,Occasional,25
+B1434,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,0.0,2026-08-02,UPI,Regular,92
+B1435,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-08-02,Cash,Regular,93
+B1436,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,5.0,2026-08-03,Card,Regular,59
+B1437,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,0.0,2026-08-03,Cash,Regular,97
+B1438,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,0.0,2026-08-03,Cash,Occasional,19
+B1439,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,12,0.0,2026-08-03,UPI,Bulk Buyer,64
+B1440,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,10.0,2026-08-03,UPI,Regular,134
+B1441,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,9,5.0,2026-08-03,UPI,Bulk Buyer,76
+B1442,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,4,0.0,2026-08-03,UPI,Regular,42
+B1443,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,10.0,2026-08-04,UPI,Regular,76
+B1444,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,15.0,2026-08-04,Card,Occasional,104
+B1445,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,0.0,2026-08-04,UPI,Occasional,139
+B1446,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,0.0,2026-08-04,Cash,Regular,139
+B1447,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,5.0,2026-08-04,Cash,Regular,104
+B1448,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,15.0,2026-08-04,Cash,Occasional,135
+B1449,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,2,10.0,2026-08-04,UPI,Regular,108
+B1450,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,6,0.0,2026-08-04,UPI,Bulk Buyer,97
+B1451,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,5.0,2026-08-04,Cash,Occasional,19
+B1452,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,4,5.0,2026-08-04,UPI,Occasional,92
+B1453,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,9,0.0,2026-08-04,UPI,Bulk Buyer,136
+B1454,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,0.0,2026-08-04,Card,Occasional,76
+B1455,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,5,10.0,2026-08-05,UPI,Regular,57
+B1456,P104,Sunflower Oil 1 L,Staples & Grocery,Edible Oil,SunDrop,145,3,0.0,2026-08-05,Card,Regular,111
+B1457,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,5.0,2026-08-05,UPI,Occasional,6
+B1458,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,5.0,2026-08-05,Cash,Regular,135
+B1459,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,10.0,2026-08-05,Card,Regular,93
+B1460,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,1,5.0,2026-08-05,Cash,Regular,19
+B1461,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,3,10.0,2026-08-05,UPI,Regular,107
+B1462,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,3,10.0,2026-08-05,UPI,Occasional,25
+B1463,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,0.0,2026-08-05,Card,Regular,92
+B1464,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,1,0.0,2026-08-05,Cash,Occasional,68
+B1465,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-08-05,UPI,Regular,57
+B1466,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,4,0.0,2026-08-05,UPI,Occasional,92
+B1467,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,6,0.0,2026-08-05,UPI,Bulk Buyer,107
+B1468,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,5.0,2026-08-05,Cash,Regular,107
+B1469,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,5.0,2026-08-06,UPI,Regular,92
+B1470,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,6,5.0,2026-08-06,Card,Bulk Buyer,76
+B1471,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-08-06,UPI,Occasional,135
+B1472,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,1,0.0,2026-08-06,UPI,Regular,62
+B1473,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,15.0,2026-08-06,Cash,Occasional,135
+B1474,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,6,15.0,2026-08-06,Card,Bulk Buyer,53
+B1475,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,6,15.0,2026-08-06,UPI,Bulk Buyer,92
+B1476,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,10.0,2026-08-06,Cash,Regular,64
+B1477,P606,Cheese Slices 200 g,Dairy & Bakery,Cheese,CreamyCow,140,1,0.0,2026-08-06,Not Recorded,Occasional,13
+B1478,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,3,15.0,2026-08-07,Cash,Regular,126
+B1479,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,3,5.0,2026-08-07,Card,Regular,126
+B1480,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,10.0,2026-08-07,Card,Regular,97
+B1481,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,1,0.0,2026-08-07,Card,Occasional,19
+B1482,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,9,0.0,2026-08-07,UPI,Bulk Buyer,53
+B1483,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,6,15.0,2026-08-07,UPI,Bulk Buyer,19
+B1484,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,10.0,2026-08-07,Cash,Regular,134
+B1485,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,3,0.0,2026-08-07,UPI,Regular,42
+B1486,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,5.0,2026-08-07,Cash,Regular,135
+B1487,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,6,10.0,2026-08-07,Cash,Regular,135
+B1488,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,3,0.0,2026-08-08,Cash,Regular,25
+B1489,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,0.0,2026-08-08,Cash,Regular,135
+B1490,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,0.0,2026-08-08,Cash,Occasional,6
+B1491,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,0.0,2026-08-08,Card,Occasional,126
+B1492,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,12,10.0,2026-08-08,Cash,Bulk Buyer,6
+B1493,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,2,0.0,2026-08-08,Cash,Regular,53
+B1494,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,0.0,2026-08-08,Card,Bulk Buyer,93
+B1495,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-08-08,UPI,Occasional,57
+B1496,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-08-08,UPI,Occasional,18
+B1497,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,0.0,2026-08-08,UPI,Occasional,104
+B1498,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,0.0,2026-08-08,UPI,Regular,139
+B1499,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,6,5.0,2026-08-08,UPI,Bulk Buyer,139
+B1500,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,3,5.0,2026-08-08,Cash,Regular,62
+B1501,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,2,0.0,2026-08-08,UPI,Regular,108
+B1502,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,15.0,2026-08-08,Cash,Bulk Buyer,135
+B1503,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,0.0,2026-08-08,UPI,Regular,19
+B1504,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,0.0,2026-08-08,UPI,Regular,25
+B1505,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,4,15.0,2026-08-08,Cash,Occasional,25
+B1506,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,10.0,2026-08-08,Cash,Bulk Buyer,104
+B1507,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,10.0,2026-08-09,Cash,Occasional,6
+B1508,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,0.0,2026-08-09,Cash,Bulk Buyer,6
+B1509,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,0.0,2026-08-09,UPI,Occasional,25
+B1510,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,15,0.0,2026-08-09,UPI,Bulk Buyer,135
+B1511,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,5.0,2026-08-09,UPI,Occasional,79
+B1512,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,10.0,2026-08-09,UPI,Occasional,139
+B1513,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,0.0,2026-08-09,UPI,Regular,59
+B1514,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,10.0,2026-08-09,Cash,Occasional,19
+B1515,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,10.0,2026-08-09,UPI,Regular,25
+B1516,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,1,15.0,2026-08-09,Cash,Regular,121
+B1517,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,5.0,2026-08-09,UPI,Occasional,139
+B1518,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,1,15.0,2026-08-09,UPI,Regular,121
+B1519,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,15.0,2026-08-09,UPI,Occasional,92
+B1520,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,0.0,2026-08-09,UPI,Occasional,57
+B1521,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,1,15.0,2026-08-09,Cash,Regular,64
+B1522,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,6,15.0,2026-08-09,Cash,Bulk Buyer,68
+B1523,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-08-09,Cash,Regular,19
+B1524,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-08-09,Cash,Regular,135
+B1525,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,0.0,2026-08-10,Card,Regular,57
+B1526,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,5.0,2026-08-10,Card,Occasional,104
+B1527,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,3,10.0,2026-08-10,UPI,Regular,112
+B1528,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-08-10,Card,Occasional,18
+B1529,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,5.0,2026-08-10,Card,Occasional,79
+B1530,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,9,10.0,2026-08-10,Cash,Bulk Buyer,94
+B1531,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,15.0,2026-08-10,Cash,Regular,136
+B1532,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,2,0.0,2026-08-10,Cash,Occasional,55
+B1533,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,5.0,2026-08-10,UPI,Occasional,25
+B1534,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,1,5.0,2026-08-10,UPI,Regular,53
+B1535,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,1,5.0,2026-08-10,Cash,Occasional,136
+B1536,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,0.0,2026-08-10,Card,Regular,107
+B1537,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,1,0.0,2026-08-10,Cash,Regular,135
+B1538,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,6,0.0,2026-08-10,Cash,Bulk Buyer,25
+B1539,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,0.0,2026-08-10,UPI,Occasional,76
+B1540,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,5,0.0,2026-08-10,UPI,Regular,107
+B1541,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,15.0,2026-08-10,Card,Occasional,19
+B1542,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,0.0,2026-08-11,UPI,Bulk Buyer,25
+B1543,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,5.0,2026-08-11,UPI,Regular,57
+B1544,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,1,0.0,2026-08-11,Cash,Occasional,19
+B1545,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,3,0.0,2026-08-11,UPI,Regular,126
+B1546,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,4,0.0,2026-08-11,UPI,Regular,126
+B1547,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,10.0,2026-08-11,UPI,Occasional,18
+B1548,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,10.0,2026-08-11,UPI,Regular,92
+B1549,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,2,0.0,2026-08-11,Cash,Occasional,62
+B1550,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,0.0,2026-08-11,UPI,Bulk Buyer,93
+B1551,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,4,15.0,2026-08-11,Cash,Occasional,97
+B1552,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,15.0,2026-08-11,UPI,Regular,76
+B1553,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,3,0.0,2026-08-11,Cash,Regular,121
+B1554,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,15.0,2026-08-11,Cash,Occasional,104
+B1555,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,0.0,2026-08-11,Cash,Occasional,64
+B1556,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,4,5.0,2026-08-11,UPI,Regular,134
+B1557,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,0.0,2026-08-11,Cash,Regular,104
+B1558,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,5.0,2026-08-11,Cash,Occasional,42
+B1559,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,5.0,2026-08-12,UPI,Bulk Buyer,135
+B1560,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,10.0,2026-08-12,Cash,Occasional,42
+B1561,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,2,0.0,2026-08-12,Cash,Regular,63
+B1562,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,0.0,2026-08-12,Card,Regular,6
+B1563,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,10.0,2026-08-12,Card,Regular,97
+B1564,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,3,5.0,2026-08-12,UPI,Regular,121
+B1565,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,0.0,2026-08-13,UPI,Occasional,92
+B1566,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,3,15.0,2026-08-13,Cash,Regular,139
+B1567,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,2,15.0,2026-08-13,Card,Regular,25
+B1568,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,4,0.0,2026-08-13,UPI,Occasional,19
+B1569,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,9,0.0,2026-08-13,UPI,Bulk Buyer,134
+B1570,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,0.0,2026-08-13,Cash,Regular,57
+B1571,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,0.0,2026-08-13,Cash,Regular,57
+B1572,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,3,0.0,2026-08-13,Cash,Regular,94
+B1573,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,3,15.0,2026-08-14,Card,Occasional,76
+B1574,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,0.0,2026-08-14,UPI,Regular,139
+B1575,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-08-14,Card,Regular,18
+B1576,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,2,5.0,2026-08-14,Cash,Regular,93
+B1577,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,12,5.0,2026-08-14,UPI,Bulk Buyer,104
+B1578,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,0.0,2026-08-14,UPI,Regular,79
+B1579,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,3,0.0,2026-08-14,Cash,Occasional,107
+B1580,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-08-14,Cash,Regular,93
+B1581,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,9,10.0,2026-08-14,UPI,Bulk Buyer,97
+B1582,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,1,0.0,2026-08-14,Cash,Occasional,19
+B1583,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,1,0.0,2026-08-14,Cash,Occasional,19
+B1584,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,10.0,2026-08-14,Cash,Regular,104
+B1585,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,1,5.0,2026-08-14,UPI,Regular,94
+B1586,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,0.0,2026-08-14,Cash,Regular,135
+B1587,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,0.0,2026-08-15,UPI,Regular,92
+B1588,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,9,0.0,2026-08-15,UPI,Bulk Buyer,93
+B1589,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,5.0,2026-08-15,UPI,Regular,135
+B1590,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,0.0,2026-08-15,Cash,Regular,42
+B1591,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,10.0,2026-08-15,UPI,Regular,6
+B1592,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,1,0.0,2026-08-15,Cash,Regular,92
+B1593,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,5.0,2026-08-15,UPI,Regular,6
+B1594,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,10.0,2026-08-15,UPI,Occasional,107
+B1595,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,3,0.0,2026-08-15,Cash,Regular,68
+B1596,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,0.0,2026-08-15,Card,Regular,59
+B1597,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,6,0.0,2026-08-15,Cash,Bulk Buyer,134
+B1598,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,3,5.0,2026-08-15,UPI,Occasional,53
+B1599,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,3,0.0,2026-08-15,UPI,Regular,77
+B1600,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,0.0,2026-08-15,Cash,Occasional,6
+B1601,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,0.0,2026-08-15,UPI,Occasional,93
+B1602,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,5.0,2026-08-15,UPI,Occasional,19
+B1603,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,3,5.0,2026-08-15,UPI,Regular,22
+B1604,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,5.0,2026-08-15,UPI,Regular,76
+B1605,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,5.0,2026-08-16,UPI,Regular,6
+B1606,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,5.0,2026-08-16,Cash,Occasional,19
+B1607,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,0.0,2026-08-16,Cash,Occasional,6
+B1608,P104,Sunflower Oil 1 L,Staples & Grocery,Edible Oil,SunDrop,145,3,0.0,2026-08-16,UPI,Regular,111
+B1609,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,5.0,2026-08-16,Cash,Bulk Buyer,93
+B1610,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,0.0,2026-08-16,UPI,Regular,92
+B1611,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,5,0.0,2026-08-16,Cash,Occasional,79
+B1612,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,1,0.0,2026-08-16,UPI,Regular,55
+B1613,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,5.0,2026-08-16,Cash,Bulk Buyer,135
+B1614,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,1,0.0,2026-08-16,Cash,Occasional,92
+B1615,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-08-16,Cash,Regular,19
+B1616,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,0.0,2026-08-16,Cash,Occasional,134
+B1617,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,9,0.0,2026-08-16,Cash,Bulk Buyer,134
+B1618,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,4,10.0,2026-08-16,UPI,Regular,93
+B1619,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,5.0,2026-08-16,Cash,Regular,135
+B1620,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,2,0.0,2026-08-16,Cash,Occasional,63
+B1621,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,10.0,2026-08-16,Cash,Regular,92
+B1622,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,2,15.0,2026-08-16,Card,Regular,108
+B1623,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,5.0,2026-08-16,Cash,Regular,139
+B1624,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,5.0,2026-08-16,Cash,Regular,6
+B1625,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,6,5.0,2026-08-16,UPI,Bulk Buyer,57
+B1626,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,6,0.0,2026-08-16,UPI,Bulk Buyer,93
+B1627,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,2,15.0,2026-08-17,Cash,Regular,94
+B1628,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,4,5.0,2026-08-17,UPI,Regular,135
+B1629,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,0.0,2026-08-17,UPI,Occasional,42
+B1630,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,5.0,2026-08-17,UPI,Regular,134
+B1631,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,10.0,2026-08-17,UPI,Regular,93
+B1632,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,6,0.0,2026-08-17,Cash,Bulk Buyer,97
+B1633,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,15.0,2026-08-17,Cash,Regular,57
+B1634,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,1,10.0,2026-08-17,UPI,Regular,77
+B1635,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,4,5.0,2026-08-17,UPI,Regular,135
+B1636,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,2,5.0,2026-08-17,UPI,Regular,25
+B1637,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,4,0.0,2026-08-17,Cash,Occasional,18
+B1638,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,5.0,2026-08-17,UPI,Regular,93
+B1639,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,3,0.0,2026-08-18,Cash,Occasional,94
+B1640,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,10.0,2026-08-18,UPI,Occasional,134
+B1641,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,2,0.0,2026-08-18,UPI,Regular,25
+B1642,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,10.0,2026-08-18,Cash,Occasional,135
+B1643,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,15.0,2026-08-18,UPI,Regular,104
+B1644,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,0.0,2026-08-18,Cash,Regular,135
+B1645,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,5.0,2026-08-18,Card,Bulk Buyer,25
+B1646,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,4,5.0,2026-08-18,UPI,Occasional,25
+B1647,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,5.0,2026-08-18,UPI,Regular,93
+B1648,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,15.0,2026-08-18,Cash,Bulk Buyer,134
+B1649,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-08-18,UPI,Regular,18
+B1650,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,4,0.0,2026-08-18,Cash,Occasional,62
+B1651,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,15.0,2026-08-18,Card,Regular,76
+B1652,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,5.0,2026-08-18,UPI,Occasional,134
+B1653,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,15.0,2026-08-19,UPI,Occasional,104
+B1654,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,1,0.0,2026-08-19,UPI,Regular,94
+B1655,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,3,5.0,2026-08-19,Cash,Bulk Buyer,76
+B1656,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,15.0,2026-08-19,Cash,Regular,64
+B1657,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,5.0,2026-08-19,Card,Regular,57
+B1658,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,10.0,2026-08-19,UPI,Regular,135
+B1659,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-08-19,Cash,Occasional,19
+B1660,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-08-19,UPI,Regular,18
+B1661,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,0.0,2026-08-19,Cash,Regular,19
+B1662,P101,Basmati Rice 5 kg,Staples & Grocery,Rice,GoldenGrain,620,1,5.0,2026-08-20,Card,Regular,107
+B1663,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,1,15.0,2026-08-20,UPI,Regular,59
+B1664,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,2,0.0,2026-08-20,UPI,Regular,94
+B1665,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,2,0.0,2026-08-20,UPI,Regular,53
+B1666,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,0.0,2026-08-20,UPI,Occasional,134
+B1667,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-08-20,Card,Regular,93
+B1668,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,1,10.0,2026-08-20,Cash,Regular,112
+B1669,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,0.0,2026-08-20,UPI,Occasional,6
+B1670,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,9,5.0,2026-08-20,Cash,Bulk Buyer,57
+B1671,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,0.0,2026-08-20,UPI,Regular,107
+B1672,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,3,0.0,2026-08-20,UPI,Bulk Buyer,112
+B1673,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,5,5.0,2026-08-20,UPI,Regular,25
+B1674,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,4,0.0,2026-08-20,UPI,Occasional,77
+B1675,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,0.0,2026-08-20,Cash,Occasional,107
+B1676,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,15.0,2026-08-20,Cash,Regular,97
+B1677,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,2,0.0,2026-08-20,Cash,Occasional,25
+B1678,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,10.0,2026-08-21,UPI,Bulk Buyer,136
+B1679,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,5.0,2026-08-21,UPI,Regular,57
+B1680,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,2,10.0,2026-08-21,UPI,Occasional,77
+B1681,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,0.0,2026-08-21,UPI,Occasional,18
+B1682,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,4,5.0,2026-08-21,UPI,Regular,92
+B1683,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-08-21,Card,Regular,135
+B1684,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,0.0,2026-08-21,Not Recorded,Regular,19
+B1685,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,5.0,2026-08-21,UPI,Regular,92
+B1686,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,0.0,2026-08-21,Cash,Occasional,139
+B1687,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,15.0,2026-08-21,Cash,Occasional,92
+B1688,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,5.0,2026-08-22,Cash,Regular,134
+B1689,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,1,5.0,2026-08-22,UPI,Occasional,64
+B1690,P101,Basmati Rice 5 kg,Staples & Grocery,Rice,GoldenGrain,620,2,5.0,2026-08-22,UPI,Occasional,107
+B1691,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,1,15.0,2026-08-22,Cash,Regular,59
+B1692,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,5.0,2026-08-22,Card,Regular,107
+B1693,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,15.0,2026-08-22,Card,Regular,104
+B1694,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,15.0,2026-08-22,Cash,Occasional,135
+B1695,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,10.0,2026-08-22,UPI,Regular,18
+B1696,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,15.0,2026-08-22,Cash,Regular,135
+B1697,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,15.0,2026-08-22,UPI,Occasional,134
+B1698,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,3,10.0,2026-08-22,Cash,Regular,79
+B1699,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,15.0,2026-08-22,UPI,Occasional,79
+B1700,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,5,0.0,2026-08-23,Card,Occasional,93
+B1701,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,0.0,2026-08-23,UPI,Occasional,126
+B1702,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,15.0,2026-08-23,UPI,Regular,104
+B1703,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,0.0,2026-08-23,Card,Occasional,92
+B1704,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,2,5.0,2026-08-23,Cash,Regular,94
+B1706,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,5.0,2026-08-23,Cash,Occasional,136
+B1707,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,1,15.0,2026-08-23,UPI,Occasional,19
+B1708,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,0.0,2026-08-23,Card,Occasional,76
+B1709,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,0.0,2026-08-23,UPI,Regular,18
+B1710,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,5.0,2026-08-23,UPI,Bulk Buyer,19
+B1711,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,0.0,2026-08-23,Cash,Regular,93
+B1712,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,3,15.0,2026-08-23,Cash,Regular,93
+B1713,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,2,15.0,2026-08-23,Card,Regular,68
+B1714,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,0.0,2026-08-23,Cash,Occasional,136
+B1715,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,10.0,2026-08-23,UPI,Occasional,107
+B1716,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,0.0,2026-08-23,Card,Occasional,126
+B1717,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,1,15.0,2026-08-23,UPI,Regular,136
+B1718,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,3,10.0,2026-08-23,UPI,Bulk Buyer,107
+B1719,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,0.0,2026-08-24,Cash,Occasional,93
+B1720,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,15.0,2026-08-24,Cash,Occasional,18
+B1721,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,10.0,2026-08-24,UPI,Regular,134
+B1722,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,4,5.0,2026-08-24,Cash,Regular,25
+B1723,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,5.0,2026-08-24,UPI,Regular,18
+B1724,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,0.0,2026-08-24,Cash,Regular,134
+B1725,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,5.0,2026-08-24,UPI,Regular,139
+B1726,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,12,0.0,2026-08-24,Cash,Bulk Buyer,126
+B1727,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,5.0,2026-08-24,Cash,Bulk Buyer,134
+B1728,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,0.0,2026-08-24,Cash,Regular,25
+B1729,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,0.0,2026-08-24,Card,Regular,97
+B1730,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,4,15.0,2026-08-24,UPI,Regular,77
+B1731,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,5.0,2026-08-24,Cash,Regular,92
+B1732,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,5.0,2026-08-24,UPI,Regular,136
+B1733,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,3,0.0,2026-08-24,Cash,Regular,76
+B1734,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,4,15.0,2026-08-25,UPI,Regular,93
+B1735,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,2,0.0,2026-08-25,Cash,Occasional,68
+B1736,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,2,0.0,2026-08-25,UPI,Regular,63
+B1737,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-08-25,Card,Regular,18
+B1738,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,0.0,2026-08-25,Cash,Regular,76
+B1739,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,3,5.0,2026-08-25,UPI,Regular,139
+B1740,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,0.0,2026-08-25,Not Recorded,Occasional,97
+B1741,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-08-25,UPI,Regular,135
+B1742,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,9,0.0,2026-08-25,Not Recorded,Bulk Buyer,135
+B1743,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,0.0,2026-08-25,Card,Occasional,57
+B1744,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,3,5.0,2026-08-25,Cash,Regular,126
+B1745,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,1,0.0,2026-08-25,UPI,Regular,6
+B1746,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,4,5.0,2026-08-25,Card,Regular,18
+B1747,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,1,10.0,2026-08-25,UPI,Regular,136
+B1748,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,10.0,2026-08-25,UPI,Occasional,25
+B1749,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,5.0,2026-08-25,Cash,Regular,136
+B1750,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,2,5.0,2026-08-26,UPI,Occasional,94
+B1751,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,10.0,2026-08-26,Cash,Bulk Buyer,57
+B1752,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,5,0.0,2026-08-26,UPI,Regular,135
+B1753,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,10.0,2026-08-26,Card,Regular,42
+B1754,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,2,10.0,2026-08-26,Cash,Regular,77
+B1755,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,2,0.0,2026-08-26,Cash,Regular,121
+B1756,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,5.0,2026-08-26,Cash,Regular,19
+B1757,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,1,5.0,2026-08-27,UPI,Regular,92
+B1758,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,10.0,2026-08-27,Cash,Occasional,126
+B1759,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,4,0.0,2026-08-27,UPI,Regular,135
+B1760,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,5,15.0,2026-08-27,Cash,Regular,121
+B1761,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,0.0,2026-08-27,Cash,Occasional,93
+B1762,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,5.0,2026-08-27,UPI,Regular,93
+B1763,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,3,0.0,2026-08-27,UPI,Regular,76
+B1764,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-08-27,Cash,Regular,93
+B1765,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,1,5.0,2026-08-27,Cash,Occasional,108
+B1766,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,5.0,2026-08-27,UPI,Occasional,135
+B1767,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,2,0.0,2026-08-27,UPI,Regular,25
+B1768,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,0.0,2026-08-27,UPI,Occasional,135
+B1769,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,3,0.0,2026-08-27,Card,Bulk Buyer,97
+B1770,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,12,0.0,2026-08-27,Cash,Bulk Buyer,57
+B1771,P504,Floor Cleaner 1 L,Home Care,Floor Care,ShineAll,190,2,15.0,2026-08-27,Not Recorded,Occasional,55
+B1772,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-08-27,UPI,Occasional,19
+B1773,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,15.0,2026-08-28,UPI,Bulk Buyer,19
+B1774,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-08-28,Cash,Regular,19
+B1775,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,5.0,2026-08-28,Card,Bulk Buyer,64
+B1776,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,10.0,2026-08-28,Cash,Regular,92
+B1777,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,4,0.0,2026-08-28,Cash,Regular,135
+B1778,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,5.0,2026-08-28,Cash,Regular,97
+B1779,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,0.0,2026-08-28,UPI,Occasional,135
+B1780,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,10.0,2026-08-28,Card,Regular,134
+B1781,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,5.0,2026-08-28,UPI,Regular,139
+B1782,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,15.0,2026-08-28,Cash,Occasional,6
+B1783,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,6,0.0,2026-08-28,UPI,Bulk Buyer,121
+B1784,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,9,0.0,2026-08-28,UPI,Bulk Buyer,93
+B1785,P104,Sunflower Oil 1 L,Staples & Grocery,Edible Oil,SunDrop,145,2,10.0,2026-08-28,UPI,Regular,111
+B1786,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,15.0,2026-08-29,UPI,Occasional,104
+B1787,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,10.0,2026-08-29,Cash,Occasional,76
+B1788,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,1,15.0,2026-08-29,Cash,Regular,62
+B1789,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,3,0.0,2026-08-29,UPI,Regular,97
+B1790,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-08-29,UPI,Regular,19
+B1791,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,1,10.0,2026-08-29,Cash,Occasional,22
+B1792,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,10.0,2026-08-29,Cash,Regular,135
+B1793,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,3,5.0,2026-08-29,UPI,Regular,63
+B1794,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,6,5.0,2026-08-29,Cash,Occasional,104
+B1795,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,5.0,2026-08-29,UPI,Occasional,97
+B1796,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,4,10.0,2026-08-29,UPI,Regular,19
+B1797,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,9,15.0,2026-08-29,Cash,Bulk Buyer,121
+B1798,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,2,0.0,2026-08-29,Cash,Occasional,25
+B1799,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,6,15.0,2026-08-29,Cash,Bulk Buyer,94
+B1800,P401,Shampoo 340 ml,Personal Care,Hair Care,SilkyLocks,320,3,0.0,2026-08-29,UPI,Regular,26
+B1801,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,15.0,2026-08-29,Cash,Regular,93
+B1802,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,15.0,2026-08-29,UPI,Occasional,134
+B1803,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,1,5.0,2026-08-29,Card,Regular,94
+B1804,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,5,5.0,2026-08-29,UPI,Regular,92
+B1805,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,5.0,2026-08-29,UPI,Regular,19
+B1806,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,6,15.0,2026-08-29,UPI,Occasional,57
+B1807,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-08-29,Card,Regular,135
+B1808,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-08-29,UPI,Regular,19
+B1809,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,4,0.0,2026-08-29,Cash,Regular,92
+B1810,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,5.0,2026-08-29,UPI,Occasional,18
+B1811,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,9,0.0,2026-08-30,UPI,Bulk Buyer,55
+B1812,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,3,15.0,2026-08-30,UPI,Occasional,97
+B1813,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,0.0,2026-08-30,UPI,Regular,92
+B1814,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-08-30,UPI,Regular,93
+B1815,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,3,0.0,2026-08-30,Cash,Occasional,68
+B1816,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,5.0,2026-08-30,UPI,Regular,134
+B1817,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,1,15.0,2026-08-30,UPI,Regular,93
+B1818,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-08-30,UPI,Occasional,18
+B1819,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,3,0.0,2026-08-30,UPI,Occasional,76
+B1820,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-08-30,UPI,Regular,57
+B1821,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,3,5.0,2026-08-30,Cash,Bulk Buyer,108
+B1822,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,4,0.0,2026-08-30,UPI,Regular,18
+B1823,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,0.0,2026-08-30,UPI,Regular,42
+B1824,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,5.0,2026-08-30,UPI,Regular,25
+B1825,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,0.0,2026-08-30,Cash,Regular,134
+B1826,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,0.0,2026-08-30,UPI,Occasional,92
+B1827,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,4,5.0,2026-08-30,UPI,Occasional,64
+B1828,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,0.0,2026-08-30,Cash,Regular,42
+B1829,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,10.0,2026-08-30,Cash,Occasional,92
+B1830,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,4,0.0,2026-08-31,Cash,Regular,57
+B1831,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,3,5.0,2026-08-31,Card,Regular,121
+B1832,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,0.0,2026-08-31,UPI,Occasional,92
+B1833,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,0.0,2026-08-31,Cash,Regular,135
+B1834,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,10.0,2026-08-31,UPI,Regular,136
+B1835,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,10.0,2026-08-31,Cash,Occasional,79
+B1836,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,1,0.0,2026-08-31,UPI,Regular,135
+B1837,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,2,5.0,2026-08-31,Cash,Regular,112
+B1838,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,1,0.0,2026-08-31,UPI,Occasional,22
+B1839,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,0.0,2026-08-31,UPI,Regular,135
+B1840,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,3,5.0,2026-09-01,Cash,Occasional,62
+B1841,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,5.0,2026-09-01,Card,Regular,42
+B1842,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,0.0,2026-09-01,Cash,Regular,25
+B1843,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,0.0,2026-09-01,UPI,Regular,134
+B1844,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,5.0,2026-09-01,Cash,Regular,18
+B1845,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,6,0.0,2026-09-01,Card,Bulk Buyer,92
+B1846,P401,Shampoo 340 ml,Personal Care,Hair Care,SilkyLocks,320,2,5.0,2026-09-01,UPI,Regular,26
+B1847,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,2,0.0,2026-09-01,UPI,Regular,53
+B1848,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,15.0,2026-09-01,UPI,Occasional,18
+B1849,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,9,0.0,2026-09-01,UPI,Bulk Buyer,135
+B1850,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,1,0.0,2026-09-01,UPI,Occasional,94
+B1851,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,10.0,2026-09-01,Cash,Regular,136
+B1852,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,2,0.0,2026-09-01,UPI,Occasional,77
+B1853,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,0.0,2026-09-01,UPI,Occasional,19
+B1854,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,2,5.0,2026-09-02,Cash,Regular,94
+B1855,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,0.0,2026-09-02,Cash,Regular,135
+B1856,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,2,5.0,2026-09-02,Cash,Occasional,68
+B1857,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,2,0.0,2026-09-02,Cash,Occasional,25
+B1858,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,0.0,2026-09-02,UPI,Occasional,97
+B1859,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,5.0,2026-09-02,Cash,Regular,25
+B1860,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,1,0.0,2026-09-02,UPI,Occasional,19
+B1861,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,5.0,2026-09-02,Cash,Occasional,107
+B1862,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,0.0,2026-09-02,UPI,Regular,107
+B1863,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,5.0,2026-09-02,Cash,Regular,134
+B1864,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,10.0,2026-09-03,Cash,Regular,97
+B1865,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,0.0,2026-09-03,Cash,Regular,42
+B1866,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,0.0,2026-09-03,UPI,Regular,76
+B1867,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,4,5.0,2026-09-03,Cash,Regular,135
+B1868,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,6,5.0,2026-09-03,Card,Bulk Buyer,77
+B1869,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,6,0.0,2026-09-03,UPI,Bulk Buyer,92
+B1870,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,5.0,2026-09-03,UPI,Regular,76
+B1871,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,10.0,2026-09-03,Card,Regular,64
+B1872,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,0.0,2026-09-03,UPI,Regular,59
+B1873,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,2,10.0,2026-09-03,UPI,Occasional,55
+B1874,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,0.0,2026-09-03,Cash,Occasional,6
+B1875,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,10.0,2026-09-03,UPI,Regular,18
+B1876,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,5.0,2026-09-04,UPI,Occasional,64
+B1877,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,0.0,2026-09-04,Card,Regular,19
+B1878,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,15.0,2026-09-04,Card,Occasional,135
+B1879,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,15.0,2026-09-04,Cash,Bulk Buyer,92
+B1880,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,2,0.0,2026-09-04,Card,Occasional,121
+B1881,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,0.0,2026-09-04,UPI,Occasional,139
+B1882,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,6,0.0,2026-09-04,Cash,Bulk Buyer,42
+B1883,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,15.0,2026-09-04,Card,Regular,6
+B1884,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,3,0.0,2026-09-04,Not Recorded,Occasional,135
+B1885,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,1,5.0,2026-09-04,UPI,Regular,19
+B1886,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,4,15.0,2026-09-04,Cash,Regular,57
+B1887,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,5,5.0,2026-09-04,UPI,Occasional,135
+B1889,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,5.0,2026-09-05,UPI,Occasional,18
+B1890,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,10.0,2026-09-05,Card,Regular,93
+B1891,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,1,0.0,2026-09-05,Cash,Occasional,77
+B1892,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,10.0,2026-09-05,UPI,Occasional,19
+B1893,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,5.0,2026-09-05,Card,Regular,57
+B1894,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,2,0.0,2026-09-05,UPI,Occasional,63
+B1895,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-09-05,UPI,Regular,135
+B1896,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,2,0.0,2026-09-05,UPI,Occasional,25
+B1897,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,10.0,2026-09-05,Cash,Occasional,6
+B1898,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,3,0.0,2026-09-05,Cash,Regular,25
+B1899,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,6,5.0,2026-09-05,UPI,Bulk Buyer,93
+B1900,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,15.0,2026-09-05,UPI,Regular,92
+B1901,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,3,0.0,2026-09-05,UPI,Regular,139
+B1902,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,2,0.0,2026-09-05,Card,Occasional,55
+B1903,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,15.0,2026-09-05,UPI,Occasional,135
+B1904,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,4,0.0,2026-09-05,UPI,Regular,77
+B1905,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,0.0,2026-09-05,UPI,Regular,57
+B1906,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,5.0,2026-09-05,UPI,Occasional,6
+B1907,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,0.0,2026-09-05,UPI,Occasional,135
+B1908,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,1,5.0,2026-09-05,Not Recorded,Occasional,64
+B1910,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,1,10.0,2026-09-06,Not Recorded,Regular,121
+B1911,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,5.0,2026-09-06,Not Recorded,Regular,79
+B1912,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,15.0,2026-09-06,UPI,Regular,18
+B1913,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,5.0,2026-09-06,Card,Regular,134
+B1914,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,3,0.0,2026-09-06,UPI,Occasional,19
+B1915,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,0.0,2026-09-06,Cash,Regular,76
+B1916,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,0.0,2026-09-06,Cash,Regular,136
+B1917,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-09-06,Card,Occasional,135
+B1918,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,0.0,2026-09-06,UPI,Bulk Buyer,6
+B1919,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,15.0,2026-09-06,Card,Regular,97
+B1920,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-09-06,Card,Regular,57
+B1921,P504,Floor Cleaner 1 L,Home Care,Floor Care,ShineAll,190,3,0.0,2026-09-06,Card,Occasional,55
+B1922,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,2,0.0,2026-09-07,UPI,Regular,108
+B1923,P504,Floor Cleaner 1 L,Home Care,Floor Care,ShineAll,190,2,0.0,2026-09-07,Cash,Occasional,55
+B1924,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,15.0,2026-09-07,Cash,Regular,25
+B1925,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,4,10.0,2026-09-07,UPI,Occasional,93
+B1926,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,15.0,2026-09-07,Cash,Regular,134
+B1927,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,10.0,2026-09-07,UPI,Occasional,92
+B1928,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,3,0.0,2026-09-07,Card,Regular,55
+B1929,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,0.0,2026-09-07,Cash,Bulk Buyer,57
+B1930,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,0.0,2026-09-07,UPI,Occasional,59
+B1931,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,0.0,2026-09-07,UPI,Regular,79
+B1932,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,2,10.0,2026-09-07,UPI,Regular,25
+B1933,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,0.0,2026-09-08,UPI,Regular,57
+B1934,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,5.0,2026-09-08,Not Recorded,Regular,135
+B1935,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,3,0.0,2026-09-08,Cash,Regular,42
+B1936,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,5.0,2026-09-08,Cash,Regular,135
+B1937,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,5.0,2026-09-08,Cash,Regular,93
+B1938,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,4,0.0,2026-09-08,UPI,Occasional,92
+B1939,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,1,0.0,2026-09-08,Cash,Occasional,121
+B1940,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,10.0,2026-09-08,UPI,Regular,104
+B1941,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,2,0.0,2026-09-08,Cash,Regular,22
+B1942,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,5.0,2026-09-09,UPI,Occasional,18
+B1943,P401,Shampoo 340 ml,Personal Care,Hair Care,SilkyLocks,320,1,15.0,2026-09-09,UPI,Regular,26
+B1944,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,3,15.0,2026-09-09,Cash,Regular,42
+B1945,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,3,15.0,2026-09-09,UPI,Regular,135
+B1946,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,15.0,2026-09-09,UPI,Regular,25
+B1947,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,1,0.0,2026-09-09,UPI,Occasional,64
+B1948,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,0.0,2026-09-09,Cash,Occasional,139
+B1949,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,5.0,2026-09-09,Cash,Occasional,6
+B1950,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,5.0,2026-09-09,UPI,Occasional,92
+B1951,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,0.0,2026-09-09,Card,Regular,25
+B1952,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,5.0,2026-09-10,UPI,Regular,107
+B1953,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,2,5.0,2026-09-10,Cash,Regular,121
+B1954,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,3,0.0,2026-09-10,Card,Regular,107
+B1955,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,12,0.0,2026-09-10,UPI,Bulk Buyer,136
+B1956,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,10.0,2026-09-10,Cash,Regular,104
+B1957,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,5.0,2026-09-10,Card,Regular,25
+B1958,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,2,5.0,2026-09-10,Cash,Regular,92
+B1959,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,15.0,2026-09-10,Card,Regular,136
+B1960,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,2,0.0,2026-09-10,Cash,Regular,94
+B1961,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,15.0,2026-09-10,Cash,Regular,104
+B1962,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,4,10.0,2026-09-10,Cash,Occasional,134
+B1963,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,3,5.0,2026-09-10,Cash,Occasional,93
+B1964,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,10.0,2026-09-11,UPI,Regular,97
+B1965,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,10.0,2026-09-11,Cash,Regular,135
+B1966,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,0.0,2026-09-11,Cash,Regular,92
+B1967,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,5.0,2026-09-11,UPI,Occasional,19
+B1968,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,0.0,2026-09-11,Card,Regular,93
+B1969,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,10.0,2026-09-11,UPI,Regular,97
+B1970,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,1,15.0,2026-09-11,UPI,Regular,76
+B1971,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,5.0,2026-09-11,UPI,Occasional,6
+B1972,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,5.0,2026-09-11,Cash,Regular,134
+B1973,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,0.0,2026-09-11,UPI,Regular,25
+B1974,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,0.0,2026-09-11,UPI,Regular,139
+B1975,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,1,0.0,2026-09-11,UPI,Regular,112
+B1976,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,15.0,2026-09-11,UPI,Occasional,93
+B1977,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,0.0,2026-09-11,UPI,Regular,25
+B1978,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,1,0.0,2026-09-11,UPI,Regular,94
+B1979,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,1,0.0,2026-09-11,UPI,Regular,25
+B1980,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,3,15.0,2026-09-12,UPI,Bulk Buyer,108
+B1981,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-09-12,Cash,Regular,93
+B1982,P306,Lollipop Pack,Snacks & Confectionery,Candies,SweetPop,50,3,0.0,2026-09-12,UPI,Regular,25
+B1983,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,3,0.0,2026-09-12,Cash,Regular,77
+B1984,P104,Sunflower Oil 1 L,Staples & Grocery,Edible Oil,SunDrop,145,3,0.0,2026-09-12,UPI,Occasional,111
+B1986,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,6,0.0,2026-09-12,Cash,Regular,18
+B1987,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,0.0,2026-09-12,Cash,Regular,93
+B1988,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,9,5.0,2026-09-12,Card,Bulk Buyer,76
+B1989,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,5.0,2026-09-12,Card,Regular,134
+B1990,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,0.0,2026-09-12,UPI,Regular,107
+B1991,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,2,5.0,2026-09-12,Cash,Occasional,55
+B1992,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,3,5.0,2026-09-12,Card,Regular,112
+B1993,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,10.0,2026-09-12,UPI,Occasional,92
+B1994,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,15.0,2026-09-12,UPI,Regular,25
+B1995,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,1,0.0,2026-09-13,Cash,Regular,139
+B1996,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,0.0,2026-09-13,Cash,Regular,92
+B1997,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,1,5.0,2026-09-13,Card,Occasional,22
+B1998,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,0.0,2026-09-13,Card,Regular,64
+B1999,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,15.0,2026-09-13,Cash,Occasional,57
+B2000,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-09-13,UPI,Regular,18
+B2001,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,6,0.0,2026-09-13,Cash,Regular,63
+B2002,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,3,10.0,2026-09-13,UPI,Regular,112
+B2003,P106,Iodised Salt 1 kg,Staples & Grocery,Salt,PureCrystal,26,9,10.0,2026-09-13,Card,Bulk Buyer,25
+B2004,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,5.0,2026-09-13,UPI,Regular,136
+B2005,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,5.0,2026-09-13,Cash,Regular,25
+B2006,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,4,15.0,2026-09-13,UPI,Regular,18
+B2007,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,0.0,2026-09-13,Cash,Regular,104
+B2008,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,6,5.0,2026-09-13,Cash,Bulk Buyer,107
+B2009,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,0.0,2026-09-13,UPI,Regular,136
+B2010,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,5.0,2026-09-13,Cash,Occasional,97
+B2011,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,1,0.0,2026-09-13,UPI,Regular,18
+B2012,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,5.0,2026-09-13,Cash,Regular,19
+B2013,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,10.0,2026-09-13,UPI,Occasional,97
+B2014,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,12,10.0,2026-09-14,UPI,Bulk Buyer,104
+B2015,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-09-14,Cash,Regular,18
+B2016,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,4,10.0,2026-09-14,UPI,Occasional,94
+B2017,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,0.0,2026-09-14,UPI,Regular,107
+B2018,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,0.0,2026-09-14,Cash,Regular,104
+B2019,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,0.0,2026-09-14,UPI,Occasional,104
+B2020,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,1,10.0,2026-09-14,UPI,Regular,134
+B2021,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,3,0.0,2026-09-14,UPI,Regular,55
+B2022,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,5,5.0,2026-09-14,Cash,Occasional,55
+B2023,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,10.0,2026-09-14,UPI,Occasional,18
+B2024,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,0.0,2026-09-14,UPI,Regular,6
+B2025,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,3,5.0,2026-09-14,UPI,Regular,121
+B2026,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,4,5.0,2026-09-15,Cash,Regular,139
+B2027,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,5.0,2026-09-15,Not Recorded,Occasional,57
+B2028,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,1,0.0,2026-09-15,Card,Regular,107
+B2029,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,3,15.0,2026-09-15,Card,Regular,97
+B2030,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,3,5.0,2026-09-15,UPI,Regular,94
+B2031,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,2,0.0,2026-09-15,Card,Regular,121
+B2032,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,5.0,2026-09-16,UPI,Regular,134
+B2033,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,0.0,2026-09-16,Cash,Occasional,76
+B2034,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,1,0.0,2026-09-16,Cash,Occasional,121
+B2035,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,1,5.0,2026-09-16,UPI,Occasional,93
+B2036,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,0.0,2026-09-16,UPI,Occasional,79
+B2037,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,0.0,2026-09-16,Cash,Bulk Buyer,93
+B2038,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,5.0,2026-09-16,UPI,Bulk Buyer,136
+B2039,P601,Full Cream Milk 1 L,Dairy & Bakery,Milk,CreamyCow,68,2,10.0,2026-09-16,Cash,Regular,22
+B2040,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,3,5.0,2026-09-16,Cash,Regular,59
+B2041,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,2,10.0,2026-09-16,UPI,Regular,53
+B2042,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,1,0.0,2026-09-16,UPI,Occasional,57
+B2043,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,0.0,2026-09-16,UPI,Bulk Buyer,64
+B2044,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,0.0,2026-09-17,UPI,Regular,97
+B2045,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,0.0,2026-09-17,Card,Regular,135
+B2046,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,0.0,2026-09-17,UPI,Regular,19
+B2047,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,15.0,2026-09-17,Cash,Occasional,57
+B2048,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,0.0,2026-09-17,Card,Regular,104
+B2049,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,6,5.0,2026-09-17,Cash,Bulk Buyer,19
+B2050,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,1,0.0,2026-09-17,Not Recorded,Regular,136
+B2051,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,10.0,2026-09-17,Cash,Regular,107
+B2053,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,5.0,2026-09-17,UPI,Occasional,126
+B2054,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,4,10.0,2026-09-17,Cash,Occasional,79
+B2055,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,3,15.0,2026-09-17,Cash,Occasional,42
+B2056,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,3,0.0,2026-09-17,UPI,Regular,64
+B2057,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,0.0,2026-09-17,UPI,Regular,59
+B2058,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,5.0,2026-09-17,UPI,Regular,79
+B2059,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,5.0,2026-09-17,UPI,Occasional,135
+B2060,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,1,5.0,2026-09-17,Card,Regular,64
+B2061,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,6,0.0,2026-09-17,Cash,Bulk Buyer,104
+B2062,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,1,0.0,2026-09-17,Card,Occasional,92
+B2063,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,6,0.0,2026-09-17,UPI,Bulk Buyer,104
+B2064,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,4,15.0,2026-09-18,UPI,Occasional,93
+B2065,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,5.0,2026-09-18,UPI,Occasional,126
+B2066,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,3,15.0,2026-09-18,UPI,Bulk Buyer,94
+B2067,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,1,0.0,2026-09-18,Cash,Regular,19
+B2068,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,3,15.0,2026-09-18,Cash,Occasional,97
+B2069,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,0.0,2026-09-18,UPI,Regular,104
+B2070,P404,Face Wash 100 g,Personal Care,Skin Care,GlowFresh,140,2,15.0,2026-09-18,Card,Regular,63
+B2071,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,9,10.0,2026-09-18,Cash,Bulk Buyer,18
+B2072,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,1,10.0,2026-09-18,Cash,Regular,25
+B2073,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,15.0,2026-09-18,UPI,Regular,6
+B2074,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,0.0,2026-09-18,UPI,Regular,135
+B2075,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,0.0,2026-09-19,Cash,Regular,6
+B2076,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,0.0,2026-09-19,UPI,Regular,19
+B2077,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,0.0,2026-09-19,Cash,Regular,25
+B2078,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,3,5.0,2026-09-19,UPI,Regular,139
+B2079,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,9,15.0,2026-09-19,Cash,Bulk Buyer,79
+B2080,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,5,0.0,2026-09-19,UPI,Occasional,139
+B2081,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,6,10.0,2026-09-19,UPI,Bulk Buyer,92
+B2082,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,3,0.0,2026-09-19,Cash,Occasional,6
+B2083,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-09-19,UPI,Regular,57
+B2084,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,4,0.0,2026-09-19,Cash,Occasional,136
+B2085,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,0.0,2026-09-19,UPI,Regular,18
+B2086,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,5.0,2026-09-19,UPI,Occasional,6
+B2087,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,5.0,2026-09-19,UPI,Regular,79
+B2088,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,6,0.0,2026-09-19,Cash,Bulk Buyer,104
+B2089,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,3,5.0,2026-09-19,Cash,Occasional,108
+B2090,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,10.0,2026-09-20,UPI,Regular,92
+B2091,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,9,5.0,2026-09-20,UPI,Bulk Buyer,68
+B2092,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,5,15.0,2026-09-20,UPI,Regular,93
+B2093,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,4,0.0,2026-09-20,UPI,Occasional,57
+B2094,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,0.0,2026-09-20,Cash,Regular,107
+B2095,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,1,0.0,2026-09-20,UPI,Regular,59
+B2096,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,4,0.0,2026-09-20,UPI,Regular,57
+B2097,P606,Cheese Slices 200 g,Dairy & Bakery,Cheese,CreamyCow,140,2,5.0,2026-09-20,Cash,Regular,13
+B2098,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,1,0.0,2026-09-20,UPI,Regular,55
+B2099,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,0.0,2026-09-20,Cash,Occasional,134
+B2100,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,3,15.0,2026-09-20,UPI,Occasional,25
+B2101,P402,Conditioner 180 ml,Personal Care,Hair Care,SilkyLocks,250,1,15.0,2026-09-20,UPI,Regular,93
+B2102,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,3,5.0,2026-09-20,UPI,Regular,79
+B2103,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,6,10.0,2026-09-20,Cash,Bulk Buyer,107
+B2104,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,15.0,2026-09-20,UPI,Regular,6
+B2105,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,0.0,2026-09-20,Cash,Occasional,104
+B2106,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,10.0,2026-09-20,UPI,Regular,93
+B2107,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,15.0,2026-09-20,UPI,Regular,42
+B2108,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,3,0.0,2026-09-21,Cash,Bulk Buyer,139
+B2109,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,2,5.0,2026-09-21,Cash,Regular,121
+B2110,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,2,5.0,2026-09-21,Cash,Regular,19
+B2111,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,0.0,2026-09-21,UPI,Regular,136
+B2112,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,1,0.0,2026-09-21,UPI,Occasional,92
+B2113,P407,Bathing Soap 3-pack,Personal Care,Soaps,PureBath,130,2,5.0,2026-09-21,Card,Occasional,112
+B2114,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,1,5.0,2026-09-22,UPI,Regular,62
+B2115,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,3,0.0,2026-09-22,Cash,Regular,76
+B2116,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,2,5.0,2026-09-22,Cash,Regular,104
+B2117,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,2,15.0,2026-09-22,Cash,Regular,108
+B2118,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,9,15.0,2026-09-22,UPI,Bulk Buyer,94
+B2119,P105,Sugar 1 kg,Staples & Grocery,Sugar,SweetLeaf,48,2,15.0,2026-09-22,UPI,Regular,76
+B2120,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,3,0.0,2026-09-22,Card,Occasional,93
+B2121,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,2,0.0,2026-09-22,UPI,Regular,19
+B2122,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,2,0.0,2026-09-23,Cash,Regular,79
+B2123,P202,Mixed Fruit Juice 1 L,Beverages,Juices,FruitFresh,115,1,10.0,2026-09-23,UPI,Regular,79
+B2124,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,4,15.0,2026-09-23,Cash,Regular,57
+B2125,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,1,0.0,2026-09-23,UPI,Occasional,108
+B2126,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,3,15.0,2026-09-23,Card,Occasional,42
+B2127,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,3,0.0,2026-09-23,Cash,Occasional,55
+B2128,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,3,0.0,2026-09-23,Cash,Regular,104
+B2129,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,0.0,2026-09-23,UPI,Regular,136
+B2130,P506,Toilet Cleaner 500 ml,Home Care,Bathroom Care,ShineAll,105,2,0.0,2026-09-23,Cash,Occasional,25
+B2131,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,0.0,2026-09-23,UPI,Regular,42
+B2132,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,15.0,2026-09-23,UPI,Occasional,135
+B2133,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,0.0,2026-09-24,Cash,Regular,18
+B2134,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,4,10.0,2026-09-24,Cash,Regular,93
+B2135,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,0.0,2026-09-24,UPI,Occasional,107
+B2136,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,3,5.0,2026-09-24,UPI,Regular,134
+B2137,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,3,5.0,2026-09-24,UPI,Occasional,94
+B2138,P307,Salted Namkeen 400 g,Snacks & Confectionery,Namkeen,SnackHub,110,1,5.0,2026-09-25,UPI,Regular,62
+B2139,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,1,5.0,2026-09-25,Cash,Occasional,19
+B2140,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,2,5.0,2026-09-25,UPI,Regular,97
+B2141,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,2,15.0,2026-09-25,UPI,Occasional,108
+B2142,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,2,15.0,2026-09-25,UPI,Occasional,135
+B2143,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,0.0,2026-09-25,Cash,Occasional,126
+B2144,P406,Toothpaste 200 g,Personal Care,Oral Care,BrightSmile,110,3,5.0,2026-09-25,Cash,Regular,55
+B2145,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,15.0,2026-09-25,Cash,Occasional,92
+B2146,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,0.0,2026-09-25,Cash,Occasional,6
+B2147,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,6,0.0,2026-09-25,UPI,Bulk Buyer,18
+B2148,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,1,5.0,2026-09-25,Cash,Regular,42
+B2149,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,2,15.0,2026-09-26,UPI,Regular,64
+B2150,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,3,15.0,2026-09-26,UPI,Regular,136
+B2151,P305,Chocolate Pouch 100 g,Snacks & Confectionery,Chocolates,ChocoDelight,120,2,5.0,2026-09-26,UPI,Regular,134
+B2152,P507,Garbage Bags 30 pcs,Home Care,Disposables,TidyHome,90,4,10.0,2026-09-26,UPI,Regular,77
+B2153,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,1,5.0,2026-09-26,UPI,Occasional,68
+B2154,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,2,0.0,2026-09-26,UPI,Occasional,18
+B2155,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,2,0.0,2026-09-26,UPI,Regular,42
+B2156,P103,Toor Dal 1 kg,Staples & Grocery,Pulses,GoldenGrain,165,3,0.0,2026-09-26,UPI,Regular,19
+B2157,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,5.0,2026-09-26,Card,Regular,92
+B2158,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,0.0,2026-09-26,Cash,Regular,18
+B2159,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,10.0,2026-09-26,UPI,Occasional,6
+B2160,P501,Detergent Powder 1 kg,Home Care,Laundry,CleanWave,130,2,0.0,2026-09-26,Cash,Regular,59
+B2161,P602,Curd 400 g,Dairy & Bakery,Curd,CreamyCow,45,2,15.0,2026-09-26,Cash,Occasional,136
+B2162,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,2,5.0,2026-09-26,Card,Occasional,93
+B2163,P606,Cheese Slices 200 g,Dairy & Bakery,Cheese,CreamyCow,140,3,5.0,2026-09-26,UPI,Regular,13
+B2164,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,0.0,2026-09-26,UPI,Regular,19
+B2165,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,1,15.0,2026-09-26,Cash,Regular,68
+B2166,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,12,0.0,2026-09-26,UPI,Bulk Buyer,104
+B2167,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,3,5.0,2026-09-26,Card,Regular,121
+B2168,P604,Paneer 200 g,Dairy & Bakery,Paneer,CreamyCow,95,1,15.0,2026-09-26,Cash,Regular,64
+B2169,P505,Room Freshener 250 ml,Home Care,Air Care,FreshAir,220,2,0.0,2026-09-26,Cash,Occasional,139
+B2170,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,2,10.0,2026-09-27,Card,Regular,6
+B2171,P504,Floor Cleaner 1 L,Home Care,Floor Care,ShineAll,190,1,0.0,2026-09-27,Cash,Occasional,55
+B2172,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,6,5.0,2026-09-27,UPI,Bulk Buyer,93
+B2173,P205,Packaged Water 1 L,Beverages,Water,AquaPure,20,1,0.0,2026-09-27,UPI,Occasional,104
+B2174,P107,Tea Powder 500 g,Staples & Grocery,Tea,MorningBrew,240,2,5.0,2026-09-27,Cash,Occasional,107
+B2175,P303,Cream Biscuits 300 g,Snacks & Confectionery,Biscuits,BakeJoy,35,3,10.0,2026-09-27,Cash,Occasional,92
+B2176,P104,Sunflower Oil 1 L,Staples & Grocery,Edible Oil,SunDrop,145,2,0.0,2026-09-27,UPI,Regular,111
+B2177,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,3,0.0,2026-09-27,UPI,Regular,92
+B2178,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,3,15.0,2026-09-27,Cash,Regular,97
+B2179,P502,Fabric Conditioner 1 L,Home Care,Laundry,CleanWave,230,2,0.0,2026-09-27,UPI,Regular,68
+B2180,P204,Lemon Soda 750 ml,Beverages,Soft Drinks,FizzUp,40,3,0.0,2026-09-27,Cash,Regular,121
+B2181,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,4,0.0,2026-09-27,Card,Occasional,57
+B2182,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,2,0.0,2026-09-27,Cash,Regular,135
+B2183,P607,Eggs (Dozen),Dairy & Bakery,Eggs,FarmFresh,84,4,15.0,2026-09-27,UPI,Regular,94
+B2184,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,6,5.0,2026-09-27,UPI,Bulk Buyer,108
+B2185,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,4,10.0,2026-09-27,UPI,Regular,108
+B2186,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,2,0.0,2026-09-27,UPI,Regular,57
+B2187,P301,Potato Chips 90 g,Snacks & Confectionery,Chips,CrunchTime,30,3,5.0,2026-09-28,Cash,Regular,57
+B2188,P207,Flavoured Milk 200 ml,Beverages,Milk Drinks,CreamyCow,30,1,5.0,2026-09-28,Card,Regular,135
+B2189,P304,Milk Chocolate 50 g,Snacks & Confectionery,Chocolates,ChocoDelight,60,3,0.0,2026-09-28,UPI,Occasional,42
+B2190,P203,Cola 750 ml,Beverages,Soft Drinks,FizzUp,40,2,10.0,2026-09-28,Cash,Regular,92
+B2191,P102,Wheat Flour 5 kg,Staples & Grocery,Flour,HarvestPure,260,1,0.0,2026-09-28,UPI,Occasional,97
+B2192,P405,Moisturising Lotion 400 ml,Personal Care,Skin Care,SoftSkin,280,3,0.0,2026-09-28,UPI,Bulk Buyer,19
+B2193,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,3,5.0,2026-09-28,Card,Bulk Buyer,108
+B2194,P403,Body Deodorant 150 ml,Personal Care,Deodorants,ZestMan,199,2,0.0,2026-09-28,Cash,Occasional,53
+B2195,P603,Butter 100 g,Dairy & Bakery,Butter,CreamyCow,62,1,0.0,2026-09-28,UPI,Occasional,93
+B2196,P605,Bread Loaf,Dairy & Bakery,Bread,BakeJoy,45,3,5.0,2026-09-28,Card,Regular,18
+B2197,P302,Instant Noodles 4-pack,Snacks & Confectionery,Noodles,QuickBite,60,6,15.0,2026-09-28,UPI,Bulk Buyer,6
+B2198,P206,Energy Drink 250 ml,Beverages,Energy Drinks,VoltX,110,2,0.0,2026-09-28,Not Recorded,Regular,108
+B2199,P201,Orange Juice 1 L,Beverages,Juices,FruitFresh,110,2,10.0,2026-09-28,Cash,Regular,126
+B2200,P503,Dishwash Liquid 500 ml,Home Care,Dishwash,ShineAll,110,1,5.0,2026-09-28,Cash,Occasional,135
