@@ -25,7 +25,7 @@ A few findings from the simulated data:
 
 What mattered most to me was doing it honestly: every number was verified by running the code, the audit report lists the limitations, and the data are clearly labelled as simulated — not presented as the shop's real sales.
 
-GitHub: [ADD REPOSITORY LINK AFTER PUBLISHING]
+GitHub: https://github.com/harshkalambe6-crypto/supermarket-sales-data-analysis
 Dashboard: [ADD LINK AFTER DEPLOYMENT]
 
 I would welcome feedback from data professionals — especially on the analysis and the dashboard design.
@@ -36,4 +36,4 @@ I would welcome feedback from data professionals — especially on the analysis 
 
 ## Project description (for LinkedIn Featured / About section)
 
-Supermarket Sales Data Analysis — a B.Sc. Data Science field project by Harsh Ganesh Kalambe, based on a visit to Choice Super Market, Virar (East). Audited and re-verified a simulated supermarket dataset (1,191 cleaned records, Jul–Sep 2026) with Python, Pandas, Matplotlib and Seaborn; built an interactive Streamlit dashboard; documented the audit, findings, limitations and recommendations in a full README and audit report. GitHub: [ADD LINK].
+Supermarket Sales Data Analysis — a B.Sc. Data Science field project by Harsh Ganesh Kalambe, based on a visit to Choice Super Market, Virar (East). Audited and re-verified a simulated supermarket dataset (1,191 cleaned records, Jul–Sep 2026) with Python, Pandas, Matplotlib and Seaborn; built an interactive Streamlit dashboard; documented the audit, findings, limitations and recommendations in a full README and audit report. GitHub: https://github.com/harshkalambe6-crypto/supermarket-sales-data-analysis.

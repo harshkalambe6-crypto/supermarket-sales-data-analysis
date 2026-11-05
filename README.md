@@ -91,7 +91,7 @@ Full verified numbers are in `reports/project_summary.md` and `reports/audit-rep
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/supermarket-sales-data-analysis.git
+git clone https://github.com/harshkalambe6-crypto/supermarket-sales-data-analysis.git
 cd supermarket-sales-data-analysis
 pip install -r requirements.txt
 python src/data_cleaning.py
