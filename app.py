@@ -43,12 +43,21 @@ payments = sorted(df["Payment_Method"].unique())
 sel_pay = st.sidebar.multiselect("Payment Method", payments, default=payments)
 customers = sorted(df["Customer_Type"].unique())
 sel_cust = st.sidebar.multiselect("Customer Type", customers, default=customers)
+date_min, date_max = df["Date"].min().date(), df["Date"].max().date()
+date_range = st.sidebar.date_input(
+    "Date range", [date_min, date_max], min_value=date_min, max_value=date_max
+)
+products_all = sorted(df["Product_Name"].unique())
+sel_prod = st.sidebar.multiselect("Product", products_all, default=products_all)
 
 filtered = df[
     df["Category"].isin(sel_cat)
     & df["Brand"].isin(sel_brand)
     & df["Payment_Method"].isin(sel_pay)
     & df["Customer_Type"].isin(sel_cust)
+    & df["Product_Name"].isin(sel_prod)
+    & (df["Date"].dt.date >= date_range[0])
+    & (df["Date"].dt.date <= date_range[-1])
 ]
 if filtered.empty:
     st.warning("No records match the selected filters.")
@@ -109,3 +118,10 @@ st.markdown(
 st.subheader("Cleaned Data")
 st.dataframe(filtered.sort_values("Date", ascending=False))
 st.caption(f"Showing {len(filtered)} of {len(df)} cleaned records.")
+st.download_button(
+    "Download filtered data as CSV",
+    filtered.to_csv(index=False),
+    "filtered_sales.csv",
+    "text/csv",
+    help="Downloads exactly the rows shown above, after all filters.",
+)

@@ -9,6 +9,7 @@
 A complete, reproducible analysis of supermarket sales: audit, cleaning, exploratory analysis, visualisations, business insights and an interactive Streamlit dashboard — every headline number independently re-verified (see `reports/audit-report-task1.md`).
 
 **Live dashboard:** https://supermarket-sales-data-analysis-4kpxcdnngr3ozsfog2waao.streamlit.app/ (deployed on Streamlit Community Cloud, Python 3.12 — see `DEPLOYMENT.md`)
+**GitHub repository:** https://github.com/harshkalambe6-crypto/supermarket-sales-data-analysis
 
 ## Project overview
 
@@ -106,7 +107,7 @@ python src/visualization.py
 streamlit run app.py
 ```
 
-The dashboard shows Final Sales, records, quantity, product/category/brand performance, monthly trend, interactive filters (category, brand, payment, customer type), product comparisons and insights. It uses the static cleaned file — **not live, not real-time**.
+The dashboard shows Final Sales, records, quantity, product/category/brand performance, monthly trend, interactive filters (date range, product, category, brand, payment, customer type), product comparisons and insights, plus a download of the filtered rows as CSV. It uses the static cleaned file — **not live, not real-time**. With no filter applied it shows Final Sales ₹3,02,764.90 and 1,191 records.
 
 ## Project structure
 
@@ -119,7 +120,8 @@ supermarket-sales-data-analysis/
 ├── DEPLOYMENT.md
 ├── data/
 │   ├── supermarket_sales_raw.csv
-│   └── supermarket_sales_cleaned.csv
+│   ├── supermarket_sales_cleaned.csv
+│   └── data_dictionary.md
 ├── notebooks/
 │   └── supermarket_analysis.ipynb
 ├── src/
@@ -134,7 +136,9 @@ supermarket-sales-data-analysis/
 │   └── daily_trend.png
 ├── reports/
 │   ├── audit-report-task1.md
-│   └── project_summary.md
+│   ├── project_summary.md
+│   ├── project_report.md
+│   └── interview_defence.md
 ├── linkedin/
 │   ├── carousel-1.png … carousel-6.png
 │   ├── linkedin-cover.png
@@ -158,7 +162,7 @@ supermarket-sales-data-analysis/
 - Real, permissioned transaction data.
 - Add cost prices for profit analysis, customer IDs for retention.
 - Longer time series, demand forecasting, real-time dashboard.
-- Deploy the Streamlit app and link it from this README once deployed.
+- The Streamlit app is already deployed and linked above; future work is analysis, not deployment.
 
 ## License
 
