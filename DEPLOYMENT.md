@@ -2,7 +2,11 @@
 
 ## Status
 
-Not deployed yet. No deployment URL exists. Do not claim one until the steps below succeed and the live URL is verified in a browser.
+**Live and verified** (5 Nov 2026): https://supermarket-sales-data-analysis-4kpxcdnngr3ozsfog2waao.streamlit.app/
+
+The live dashboard was opened in a fresh browser tab and verified: title "Supermarket Sales Dashboard", Final Sales ₹3,02,764.90, 1,191 records.
+
+Note: the first deploy failed with "Error installing requirements" because Streamlit Cloud defaulted to Python 3.14, on which pandas==2.1.4 has no wheel. The fix was `runtime.txt` (python-3.12) plus setting the app's Python version to 3.12 in Streamlit Cloud Advanced settings — a plain reboot alone did not pick up the change.
 
 ## Option A — Streamlit Community Cloud (recommended, free)
 

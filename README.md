@@ -8,6 +8,8 @@
 
 A complete, reproducible analysis of supermarket sales: audit, cleaning, exploratory analysis, visualisations, business insights and an interactive Streamlit dashboard — every headline number independently re-verified (see `reports/audit-report-task1.md`).
 
+**Live dashboard:** https://supermarket-sales-data-analysis-4kpxcdnngr3ozsfog2waao.streamlit.app/ (deployed on Streamlit Community Cloud, Python 3.12 — see `DEPLOYMENT.md`)
+
 ## Project overview
 
 This project answers: which categories, products and brands drive sales, when sales rise and fall, how customers pay, and what discounts actually do — using Harsh's field-project dataset (1 Jul – 28 Sep 2026).
@@ -112,6 +114,7 @@ The dashboard shows Final Sales, records, quantity, product/category/brand perfo
 supermarket-sales-data-analysis/
 ├── README.md
 ├── requirements.txt
+├── runtime.txt
 ├── app.py
 ├── DEPLOYMENT.md
 ├── data/

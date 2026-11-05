@@ -26,7 +26,7 @@ A few findings from the simulated data:
 What mattered most to me was doing it honestly: every number was verified by running the code, the audit report lists the limitations, and the data are clearly labelled as simulated — not presented as the shop's real sales.
 
 GitHub: https://github.com/harshkalambe6-crypto/supermarket-sales-data-analysis
-Dashboard: [ADD LINK AFTER DEPLOYMENT]
+Dashboard: https://supermarket-sales-data-analysis-4kpxcdnngr3ozsfog2waao.streamlit.app/
 
 I would welcome feedback from data professionals — especially on the analysis and the dashboard design.
 
